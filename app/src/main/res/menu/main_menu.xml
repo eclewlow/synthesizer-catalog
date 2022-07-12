@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/menu_item_information"
+    android:title="@string/menu_information"
+    app:showAsAction="never"
+    />
+    <item android:id="@+id/menu_item_uninstall"
+        android:title="@string/menu_uninstall"
+        app:showAsAction="never"
+        />
+</menu>
